@@ -65,7 +65,7 @@ class _HomePageState extends State<HomePage> {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
-                  SizedBox(
+                  const SizedBox(
                     height: 50,
                   ),
                   Container(
