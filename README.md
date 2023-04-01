@@ -1,3 +1,3 @@
 # calculator
 
-## A Small step in learning flutter 
+## A Small step in learning flutter.
